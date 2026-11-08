@@ -9,8 +9,8 @@ to .NET applications. The samples in this repository show it on ASP.NET Core + A
 
 | Sample | Scenario | Stack |
 |---|---|---|
-| [Advanced search](AdvancedSearch) | Advanced search | ASP.NET Core 8 · Angular 12 · C#, TypeScript |
-| [Ad-hoc reporting](AdHocReporting) | Ad-hoc reporting | ASP.NET Core 8 · Angular 18 · C#, TypeScript |
+| [Advanced search](AdvancedSearch) | Advanced search | ASP.NET Core 10 · Angular 12 · C#, TypeScript |
+| [Ad-hoc reporting](AdHocReporting) | Ad-hoc reporting | ASP.NET Core 10 · Angular 18 · C#, TypeScript |
 
 * **Advanced search.** A full-page query builder: users pick the columns, combine any conditions they need, run the query and work with the result — sorting, paging and export.
 * **Ad-hoc reporting.** A basic ad-hoc reporting tool: users keep a list of reports, set up the columns and conditions of each one, and see the result as a table (with grouping and totals) or a chart.

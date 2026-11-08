@@ -8,7 +8,7 @@ Part of [EasyQuery samples for ASP.NET Core + Angular](../README.md).
 
 | | |
 |---|---|
-| Host | ASP.NET Core 8 |
+| Host | ASP.NET Core 10 |
 | UI | Angular 12 |
 | Language | C#, TypeScript |
 | EasyQuery | 7.5.0 — `Korzh.EasyQuery.SqLiteGate`, `Korzh.EasyQuery.AspNetCore`, `Korzh.EasyQuery.EntityFrameworkCore.Relational`, `Korzh.EasyQuery.DataExport`, `Korzh.EasyQuery.SqlServerGate` |
@@ -18,7 +18,7 @@ Part of [EasyQuery samples for ASP.NET Core + Angular](../README.md).
 
 ## Prerequisites
 
-* [.NET 8 SDK](https://dotnet.microsoft.com/download)
+* [.NET 10 SDK](https://dotnet.microsoft.com/download)
 * [Node.js](https://nodejs.org/) (LTS)
 * Visual Studio 2022 17.2 or later, VS Code or any other editor (optional)
 * SQL Server Express LocalDB (installed with Visual Studio)
